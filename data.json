@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Yeasir Arafat",
+        "phone": "01947555458",
+        "password": "988711",
+        "balance": 1000
+    },
+    {
+        "name": "Imran Hossain",
+        "phone": "01947555459",
+        "password": "1234",
+        "balance": 500
+    }
+]
