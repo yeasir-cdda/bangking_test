@@ -2,12 +2,18 @@
     {
         "name": "Yeasir Arafat",
         "phone": "01947555458",
-        "password": "988711",
-        "balance": 1000
+        "password": "123456",
+        "balance": 800
     },
     {
         "name": "Imran Hossain",
         "phone": "01947555459",
+        "password": "1234",
+        "balance": 300
+    },
+    {
+        "name": "Eshak Khan",
+        "phone": "01708730727",
         "password": "1234",
         "balance": 500
     }
